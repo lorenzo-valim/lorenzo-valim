@@ -33,7 +33,7 @@ Sou estudante de Tecnologia da Informação e técnico em Informática, atuando 
 ### Projetos em Destaque
 
 **[Prisma](https://github.com/lorenzo-valim/Prisma-API)**
-RESTful API para gestão completa do ciclo de reservas de salas, com autenticação de usuários (cadastro, login, verificação por OTP), gerenciamento de salas e detecção automática de conflitos de horário com fila de espera.
+Aplicação mobile responsável pelo desenvolvimento da RESTful API para gestão completa do ciclo de reservas de salas, com autenticação de usuários (cadastro, login, verificação por OTP), gerenciamento de salas e detecção automática de conflitos de horário com fila de espera.
 `C# · .NET · MySQL · BCrypt · SMTP`
 
 **[Chronos Flow](https://github.com/lorenzo-valim/controle-ponto)**
@@ -43,6 +43,10 @@ Aplicação web para controle de registro de ponto de funcionários, com cadastr
 **[Minesweeper Flutter](https://github.com/juliano-mesquita/408T-2025-S2-MINESWEEPER)**
 Clone do Campo Minado desenvolvido em Flutter, com arquitetura modular em camadas e persistência local de pontuação.
 `Flutter · Dart · SQFlite`
+
+**[EcoRank](https://github.com/GabrielBrauwers/Ecorank)**
+Plataforma web de monitoramento e ranking de sustentabilidade empresarial. Permite que visitantes consultem a classificação ambiental de empresas e que empresas cadastradas acompanhem seus próprios indicadores em tempo real.
+`HTML · CSS · JavaScript · MQTT · Chart.js · Vercel`
 
 ---
 
